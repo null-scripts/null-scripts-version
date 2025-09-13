@@ -1,4 +1,10 @@
 {
-  "null-scoreboard": "1.3.1",
-  "null-hud": "1.0.0"
+  "null-scoreboard": {
+    "version": "1.3.1",
+    "changelog": ""
+  },
+  "null-hud": {
+    "version": "1.0.0",
+    "changelog": ""
+  },
 }
